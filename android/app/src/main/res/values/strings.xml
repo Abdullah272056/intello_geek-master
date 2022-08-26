@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IGLearn</string>
+    <string name="facebook_app_id">398002522466304</string>
+    <string name="fb_login_protocol_scheme">fb398002522466304</string>
+    <string name="facebook_client_token">72b12e6c844aa3e061cb0dc069901110</string>
+
+
+
+    <!-- <string name="app_name">IGLearn</string>
+    <string name="facebook_app_id">3147963232122999</string>
+    <string name="fb_login_protocol_scheme">fb3147963232122999</string>
+    <string name="facebook_client_token">4e756eb2fcf8bf7f1008c9850c2052cf</string> -->
+
+</resources>
